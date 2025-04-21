@@ -1,0 +1,9 @@
+name: cs224r
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python>=3.13
+  
